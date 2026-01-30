@@ -1,4 +1,4 @@
-# KEngine
+# KEngine (EARLY PROTOTYPE)
 A game engine being written in Kotlin with Azul Zulu OpenJDK 17
 
 # Dependencies
