@@ -77,7 +77,6 @@ fun main() {
     button.isFocusPainted = false
     button.setBounds(10, 10, 185, 50)
 
-    // 2. Set the button font
     button.font = try {
         Font("JetBrains Mono", Font.PLAIN, 17)
     } catch (e: Exception) {
