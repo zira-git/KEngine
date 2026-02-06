@@ -7,4 +7,5 @@ A game engine made to make 2D Kotlin games.
 - IntelliJ IDEA (IDE) (https://www.jetbrains.com/idea/)
 
 # Codeberg
+- ### This repository will no longer be updated as it has migrated to Codeberg
 - KEngine on Codeberg: https://codeberg.org/zira/KEngine
